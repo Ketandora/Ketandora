@@ -1,6 +1,6 @@
 
-<h3 align="center">A Quote I Live By:</h3>
-<h4 align="center">“Nothing changes when nothing changes.”</h4>
+<h1 align="center">A Quote I Live By:</h1>
+<h2 align="center">“Nothing changes when nothing changes.”</h2>
 
 <!-- <p align="center">
   Developer in Progress • Learning by Building 
