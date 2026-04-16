@@ -48,18 +48,3 @@
   <img src="https://streak-stats.demolab.com?user=Ketandora&theme=github-dark&hide_border=true&border_radius=12" height="170" />
 </p>
 
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ketandora&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 📌 Current Focus
-
-* Strengthening Data Structures & Algorithms
-* Building real-world web development projects
-* Preparing for internship opportunities
