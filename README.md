@@ -35,8 +35,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ketandora&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Ketandora&theme=github-dark&hide_border=true&border_radius=12" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ketandora&show_icons=true&theme=transparent&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Ketandora&theme=transparent&hide_border=true" height="170" />
 </p>
 ---
 <!--
