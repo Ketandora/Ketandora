@@ -35,20 +35,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ketandora&show_icons=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Ketandora&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ketandora&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Ketandora&theme=github-dark&hide_border=true&border_radius=12" height="170" />
 </p>
 ---
 <!--
 ## 📌 Current Focus
 
-* Strengthening Data Structures & Algorithms
+<!--* Strengthening Data Structures & Algorithms
 * Building real-world web development projects
 * Preparing for internship opportunities
 
 ---
 
-## 🤝 Connect With Me*/-->
+## 🤝 Connect With Me*/ -->
 
 <!-- Add your links here when ready -->
 
