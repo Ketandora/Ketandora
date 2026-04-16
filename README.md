@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ketan Dora</h1>
-<h3 align="center">Nothing changes when nothing changes.</h3>
+<h1 align="center">Ketan Dora</h1>
+<h3 align="center">A Quote I Live By:</h3>
+<h4 align="center">“Nothing changes when nothing changes.”</h4>
 
 <!-- <p align="center">
   Developer in Progress • Learning by Building 
