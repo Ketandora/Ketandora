@@ -1,4 +1,4 @@
-<h1 align="center">Ketan Dora</h1>
+
 <h3 align="center">A Quote I Live By:</h3>
 <h4 align="center">“Nothing changes when nothing changes.”</h4>
 
