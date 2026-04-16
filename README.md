@@ -1,10 +1,5 @@
-
 <h1 align="center">A Quote I Live By:</h1>
 <h2 align="center">“Nothing changes when nothing changes.”</h2>
-
-<!-- <p align="center">
-  Developer in Progress • Learning by Building 
-</p> -->
 
 ---
 
@@ -13,6 +8,20 @@
 * Developer in progress, learning by building
 * Interested in software engineering, problem solving, and clean code
 * Turning curiosity into projects and projects into experience
+
+---
+
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ketan-dora-b0717b264/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ketan%20Dora-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:gketandora@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -38,22 +47,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ketandora&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" height="170" />
   <img src="https://streak-stats.demolab.com?user=Ketandora&theme=github-dark&hide_border=true&border_radius=12" height="170" />
 </p>
+
 ---
-<!--
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ketandora&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
 ## 📌 Current Focus
 
-<!--* Strengthening Data Structures & Algorithms
+* Strengthening Data Structures & Algorithms
 * Building real-world web development projects
 * Preparing for internship opportunities
-
----
-
-## 🤝 Connect With Me*/ -->
-
-<!-- Add your links here when ready -->
-
-<!-- LinkedIn -->
-
-<!-- Portfolio -->
-
-<!-- Email -->
