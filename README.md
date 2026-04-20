@@ -6,7 +6,6 @@
 ## 🚀 About Me
 
 * Developer in progress, learning by building
-* Interested in software engineering, problem solving, and clean code
 * Turning curiosity into projects and projects into experience
 
 ---
