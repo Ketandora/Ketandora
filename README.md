@@ -63,10 +63,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ketandora&theme=github_dark" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ketandora&theme=github_dark&utcOffset=5.5" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ketandora&theme=github_dark" width="700"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ketandora&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="170"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ketandora&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" height="170"/>
 </p>
